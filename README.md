@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ethanhart35
+- 👋 Hi, I’m @ethanhart
 - 👀 I’m interested in: Back end web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning shopify development
 - 💞️ I’m looking to collaborate on: new projects
 - 📫 How to reach me: ethanhart35@gmail.com
 
