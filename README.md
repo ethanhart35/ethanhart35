@@ -1,6 +1,6 @@
 - Hi, I’m Ethan Hart
 - I’m interested in: UI/UX Design
-- I’m currently learning shopify development
+- I’m currently learning shopify/ecommerse development
 - I’m looking for new opportunities 
 - How to reach me: ethanhart35@ehart.dev
 
