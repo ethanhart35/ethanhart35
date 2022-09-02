@@ -1,4 +1,4 @@
-- Hi, I’m Ethan Hart
+- Hi, I’m Ethan
 - I’m interested in: UI/UX Design
 - I’m currently learning shopify/ecommerse development and React
 - I’m looking for new opportunities 
