@@ -1,5 +1,5 @@
 - Hi, I’m Ethan
-- Phoenix AZ
+- Phoenix Arizona
 - I’m interested in UI/UX Design.
 - I’m currently learning Shopify/Ecommerse development.
 - I’m looking for new projects to work on.
