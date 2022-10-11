@@ -2,7 +2,7 @@
 - Phoenix Arizona
 - I’m interested in UI/UX Design.
 - I’m currently learning Shopify/Ecommerse development.
-- I’m looking for new projects to work on.
+- I’m looking for a new project.
 - How you can reach me: ethanhart35@ehart.dev
 
 <!---
