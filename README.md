@@ -2,7 +2,6 @@
 - Phoenix, Arizona
 - I’m interested in UI/UX Design.
 - I’m currently learning React.
-- I also like 3D modeling.
 - I’m looking for a new project.
 - How you can reach me: ethanhart35@ehart.dev
 
