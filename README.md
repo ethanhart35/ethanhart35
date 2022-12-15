@@ -1,5 +1,5 @@
 - Hey, I’m Ethan
-- Phoenix, Arizona
+- Arizona
 - I’m interested in UI/UX Design.
 - I’m currently learning React.
 - I’m looking for a new project.
